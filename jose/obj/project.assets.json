@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "isela/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/isela.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/isela.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "isela/1.0.0": {
+      "type": "project",
+      "path": "../isela/isela.csproj",
+      "msbuildProject": "../isela/isela.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "isela >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/localhost/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/localhost/Projects/opgaver/c#/jose/jose.csproj",
+      "projectName": "jose",
+      "projectPath": "/Users/localhost/Projects/opgaver/c#/jose/jose.csproj",
+      "packagesPath": "/Users/localhost/.nuget/packages/",
+      "outputPath": "/Users/localhost/Projects/opgaver/c#/jose/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/localhost/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/Users/localhost/Projects/opgaver/c#/isela/isela.csproj": {
+              "projectPath": "/Users/localhost/Projects/opgaver/c#/isela/isela.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+/Users/localhost/Projects/opgaver/c#/isela/bin/Debug/net8.0/isela.deps.json
+/Users/localhost/Projects/opgaver/c#/isela/bin/Debug/net8.0/isela.dll
+/Users/localhost/Projects/opgaver/c#/isela/bin/Debug/net8.0/isela.pdb
+/Users/localhost/Projects/opgaver/c#/isela/obj/Debug/net8.0/isela.GeneratedMSBuildEditorConfig.editorconfig
+/Users/localhost/Projects/opgaver/c#/isela/obj/Debug/net8.0/isela.AssemblyInfoInputs.cache
+/Users/localhost/Projects/opgaver/c#/isela/obj/Debug/net8.0/isela.AssemblyInfo.cs
+/Users/localhost/Projects/opgaver/c#/isela/obj/Debug/net8.0/isela.csproj.CoreCompileInputs.cache
+/Users/localhost/Projects/opgaver/c#/isela/obj/Debug/net8.0/isela.dll
+/Users/localhost/Projects/opgaver/c#/isela/obj/Debug/net8.0/refint/isela.dll
+/Users/localhost/Projects/opgaver/c#/isela/obj/Debug/net8.0/isela.pdb
+/Users/localhost/Projects/opgaver/c#/isela/obj/Debug/net8.0/ref/isela.dll
